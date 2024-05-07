@@ -1,5 +1,4 @@
 import numpy as np
-import w2_unittest
 
 #Some Auxiliary functions
 
