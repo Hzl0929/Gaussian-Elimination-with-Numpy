@@ -10,3 +10,5 @@ Turn the input matrix to Row echelon from.
 Perform Back sbustitution process.
 
 At last, combine all defined functions to Gaussian_Elimination function and get the result.
+
+Highly recommended run with JupyterNotebook.
