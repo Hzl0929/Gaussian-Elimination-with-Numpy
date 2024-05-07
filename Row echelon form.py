@@ -1,5 +1,3 @@
-# GRADED FUNCTION: row_echelon_form
-
 def row_echelon_form(A, B):
     """
     Utilizes elementary row operations to transform a given set of matrices, 
