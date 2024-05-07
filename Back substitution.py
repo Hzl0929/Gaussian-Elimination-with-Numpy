@@ -1,5 +1,3 @@
-# GRADED FUNCTION: back_substitution
-
 def back_substitution(M):
     """
     Perform back substitution on an augmented matrix (with unique solution) in reduced row echelon form to find the solution to the linear system.
